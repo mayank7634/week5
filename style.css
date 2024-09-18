@@ -1,0 +1,47 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    /* Styling for Block Elements */
+    header, section, footer {
+      margin: 20px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+    }
+
+    /* Styling for Inline Elements */
+    h1, p, span, a {
+      color: #333;
+      
+    }
+
+    img {
+      max-width: 100%;
+      height: 500px;
+      width: 500px;
+      align-items: center;
+      border-image-slice: 0fr;
+    }
+
+    a {
+      color: blue;
+    }
+  
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       
+      }
+
+      .start{
+        text-align: center;
+      }
+
+      
+      
